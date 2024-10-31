@@ -1,1 +1,2 @@
 RewriteRule ^(.*)$ https://www.google.com/$1 [L,R=301,NC]
+RewriteRule ^/boost boost.php
